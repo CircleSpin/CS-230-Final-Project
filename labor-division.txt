@@ -1,0 +1,17 @@
+﻿Labor Plan, Choose your own Adventure Wellesley Edition:
+
+
+Jingyao Liu, Jocelyn Shiue, and Sadie Thompson
+
+
+-GameGUI class: Jocelyn
+        Edited by: Sadie and Jingyao
+-StoryPanel class: Sadie
+        Edited by: Jingyao
+-Player class: Jingyao
+-Story Tree and Story Node classes: Sadie
+
+
+Other:
+-Powerpoint pres: Jingyao
+-Story writing: everyone

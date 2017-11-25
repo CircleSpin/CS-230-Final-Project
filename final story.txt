@@ -1,0 +1,216 @@
+
+It’s the first day of reading period and your alarm rings. Reaching a leaden hand across to your sidetable, you manage to turn off the alarm. What’s next? 
+
+1. Go back to sleep, you are too tired.
+2. Get up.
+
+--- Day 1
+###
+<html> Eventually, your roommate wakes you up to check on you. <br> Apparently you’ve been sleeping for over 15 hours.</html>
+
+1. Yell at your roommate.
+2. Get up.
+
+--- You went back to sleep
+###
+<html> After fumbling around, you manage to get dressed and ready for the day. <br> You have a <b> ton </b> of work you need to get done for finals. What do you decide to do?</html>
+
+1. Go to the library.
+2. Grades matter, but landing a summer internship is more urgent!
+--- You got up on time
+###
+<html> You’re furious with your roommate and end up screaming at her.<br> She’s no passive matter either, and screams right back. <br> Amidst your screams, you both hear another one down the hall.</html>
+
+1. She’s distracted! Quick, perfect opportunity to win!
+2. What the heck? Check out the other scream.
+--- You entered a yelling match with your roommate
+### 
+<html> You push yourself up and immediately feel the effects of 15 hours of sleep. <br> Your vision starts to blur but you shake it off and attempt to stand up. <br> Staying on your feet lasts a second before you fall back onto your bed. <br> Your roommate stands in front of you staring at you judgmentally.
+</html>
+
+1. Ask her for help up.
+2. Wait a second and get up yourself.
+--- You chose to get up after sleeping in
+###
+<html> You enter Clapp library and there’s a person sitting there <br> drinking tea. What do you decide to do? </html>
+
+1. Say hello to the person.
+2. Ignore the person.
+--- In Clapp library there was someone drinking tea.
+###
+<html> You open your email to check your internship application <br> progress. Whoa! You got an email from Google about flying in to their <br>
+San Francisco office for an interview in the middle of finals week! </html>
+
+1. Screw finals! Book a plane ticket right now.
+2. Call HR to reschedule the interview for after finals.
+--- You decided to prioritize internship application over finals
+###
+<html> You go on all fours and plunge straight at your roommate. <br> Apparently watching too much National Geographic wasn’t all that useless, <br> as your inner cheetah comes out. You pounce and get her in a headlock. </html>
+1. Go for the kill!
+2. What the heck did you just do? Try to play it down as a joke.
+
+--- You get your roommate in a headlock
+###
+<html> You leave your room, and your roommate mid scream, to try to <br> figure out the other foreign scream. You quickly notice it’s a room down the hall. You lean your ear closer in, and can definitively hear sobbing. You decide to...
+</html>
+
+1. Knock
+2. Leave the girl alone
+
+--- You go to check on the crying girl
+###
+<html>You sigh and hold out a hand to your roommate.<br> She grabs it and pulls you up onto your feet.<br> This time you stay steady.<br>You nod as thanks and begin getting dressed.<br> Your roommate makes a move to leave.
+</html>
+1. Stop her and ask her to eat breakfast together
+2. Let her leave
+
+--- You tried to get up but couldn’t
+###
+<html>
+You give your roommate a dirty sneer and wait a bit before getting up.<br> By the time you’re up on your feet, she has left the room.<br> You dress yourself and consider your options.
+</html>
+1. Get some food and head to the library to study
+2. Skip food and take a jog to feel better
+
+--- You chose to get up on your own
+###
+<html> “Hello”, you say to the person drinking tea. “Hey there! Coming<br>  to study? I highly recommend the Jasmine green tea, it really 
+<br> gets me in the mood to study.” The person responds. “Would you like some?” </html>
+
+
+1. Say, “Sure! I would love to get a boost for studying”.
+2. Say, “No thanks”.
+
+--- You greet the person in the library.
+###
+<html> You decide that you have more urgent things to do than meager <br>chit-chat. Where should you go to study? </html>
+1. Sit down at the nearest table.
+2. Go upstairs.
+
+--- You ignore the person in the library.
+###
+<html>After booking a flight to go to Google’s San Fran office, you <br> decided to devote all of your time to maximizing your chance of landing <br> the interview offer. How should you prepare?</html>
+
+
+1. Gather all CS230 handouts and notes to review CS knowledge
+2. Look up Wellesley alums at Google to network your way in
+
+--- You booked a flight for Google’s interview
+###
+<html>Over the phone, you explain to Google’s HR that you needed to <br> stay on campus during finals week to code your CS230 final project <br> with your group partners. You two dive into an intellectual <br> discussion about the best data structures to use for your project, <br> and you demonstrated superb CS knowledge. The HR person lets you in <br> on a secret: she is planning on leaving Google to start her own startup, <br> and thinks you’ll make a great summer intern for her company! The <br> only problem is, she can’t afford to hire paid interns yet.</html>
+
+
+1. Take the internship on the spot. Experience matters most!
+2. You sense something fishy going on.
+
+--- You picked up the phone to call Google HR
+###
+<html>It’s the first day of reading period at Wellesley and your alarm begins to ring. You prop yourself <br> it turns out that everything was a dream. </html>
+
+
+1. option 1
+2. option 2
+
+--- It was all a dream
+###
+<html>You release your roommate from the headlock and try to play the whole thing off as a joke. <br>“Did I scare you?, Hahaha”. Your roommate looks at you, and smiles. “Yeah, totally.” She leaves the room. </br> 10 minutes later campus po shows up at your door and handcuffs you.</html>
+
+
+1. option 1
+2. option 2
+
+--- You get arrested
+###
+<html> *thonk thonk thonk*, you knock on the girl’s door. She opens it <br>up gingerly, her eyes red and puffy. “Are you okay?” You ask the girl, <br>as you notice snot slowly oozing out of her nose. “Yweah…” She <br>sniffled. “I hweard some screaming and thowaught it was the primal <br>scream. I thowau-she wiped way her snot- ght finals had started.</html>
+1. option 1
+2. option 2
+
+--- You knocked on the girl’s door
+###
+<html> You decide to leave the poor crying girl alone. Amidst her <br>crying, you realize that you’ve been feeling pretty bad too. You roll <br>up into a ball onto the ground. You cry. </html>
+1. option 1
+2. option 2
+
+--- You left the girl alone
+###
+<html>She waits as you finish getting dressed.<br> You both walk downstairs. The stairwell is eerily silent. You push through the dining hall door and find the room empty.<br> The floor tiles are cracked and everything is covered in a layer of dust.<br> Glittering shards of glass cover the floor near long-broken windows.<br> Outside you see only the deep green of wilderness.<br> Your roommate stands behind you as you gawk at the mess.<br> She whispers “I thought it would be better if you saw this firsthand.”
+</html>
+1. option 1
+2. option 2
+
+--- You went to get breakfast with your roommate
+###
+<html>As you watch her leave, you see she hesitates a bit before exiting. <br>You get the feeling she knows something you don’t.<br> Slightly perturbed, you pull on the rest of your clothes and make to exit the room. <br>As you curl your hand around the doorknob, you feel the room lurch backward. <br> It’s all you can do to stay on your feet and not get launched into your dresser. <br> With anxious speed you throw open the door.<br> Outside is a long wooden hallway that you don’t remember.<br> On one end you see a moderate amount of light.<br> You begin to sprint down the hallway, only to get knocked against the walls with another sudden lurch.<br> As you pick yourself up you get a whiff of salt air.<br> You manage to make it to the end of the hall and are greeted with open air, <br> sky, and a hulking mass of roiling tentacles and bloodshot eyes, so big it blots out the sun.
+</html>
+1. option 1
+2. option 2
+
+--- You let your roommate leave without you
+###
+<html>
+You walk down to the dining hall and grab a coffee and a scone before making your way to Clapp.<br> On the way there, you eat everything and begin to feel better.<br> As you enter Clapp you notice something off.<br> The rooms you remember are not there. In their place is a long row of library shelves.<br>As you walk down you look left and right but see no exit.<br> The end of the row doesn’t seem to be in sight either. Only more books.<br>You look back and see only the same thing.<br> For hours you walk this line of books.<br> You lost hope long ago of making it out, but curiously haven’t stopped walking.<br> You notice the books on the shelves getting progressively older.<br> After what seemed to be a day of walking you see something different in front of you, an end!<br> You begin a tired jog towards it but collapse from exhaustion.<br> The last thing you see before your vision fades to black is the concerned face of a student worker.
+</html>
+1. option 1
+2. option 2
+
+--- You chose to eat to help you feel better
+###
+<html>
+You walk out of your dorm towards the lake trail. It’s a sunny day with few clouds in the sky.<br> The birds chirp cheerily and the green leaves of the trees seem to beam your way.<br> When you get to the trail you begin to jog.<br> From behind you you hear a silvery voice call to you, “wait up!” <br> You turn to see a girl you’ve never seen before. Her abyssal eyes draw you in immediately.<br> She introduces herself and asks if she can walk with you.<br>You hesitantly say yes and forget about your jogging plans.<br>As you walk you talk about mundane things, like the weather, the state of the season, and the most comfy sleepwear.<br> You begin talking about more serious topics, what it means to be a good person, the transient nature of everything,<br> how to tell a genuine person from a fake.<br> She gives off the air of great wisdom with no trace of jaded contempt.<br>Before you know it, you’ve made three laps around the lake.<br> Here she stops and smiles at you, with uncannily sharp teeth.<br> She takes your hand in hers -it’s cold- and squeezes it in a reassuring way.<br> She leans over to your cheek as if to kiss it but all you feel is a rush of damp air.<br>She’s gone. She left you only with a spray of mist and the sound of something diving into the water.
+</html>
+1. option 1
+2. option 2
+
+--- You chose to jog off your sleep fatigue
+###
+<html> She offers you her cup, and you take a sip. Suddenly, you feel <br>super energetic! You whip out all the things you need to do, and <br>complete it all within 10 seconds! Wow! It turns out that the tea was magic. </html>
+1. option 1
+2. option 2
+
+--- You drank the tea. It was magic!!
+###
+<html> You politely refuse the tea. You decide to settle on a desk in <br>the corner of the fourth floor, and pull out your work. After a big <br>hefty sigh, you take the dreadful plunge into your work. </html>
+1. option 1
+2. option 2
+
+--- You didn’t drink the tea.
+###
+<html> You plonk all of your belongings at the nearest table, splaying <br>them all about. After a humongous sigh, you sit your butt down on the <br>chair. You open your notebook and begin to write notes, when you <br>decide you should scoot yourself forward a bit. You attempt to do so. <br>You try again. And again. Your butt is stuck to the chair. “W-What?!” <br>You try to get up, but you can’t. The girl with the tea looks up and <br>smiles. “You should always make time to be polite”, her smile turned <br>eery, “Or you’ll suffer the consequences…” </html>
+1. option 1
+2. option 2
+
+--- You chose to sit at the nearest table. Forever.
+###
+<html> You go up the stairs, and turn the corner. “Huh? Wasn’t the <br>second floor door supposed to be here?” You turn around and head back <br>down. “W-w-wait, I swear I just entered a door here. Maybe I’m just <br>confused” You continue to walk down the stairs. Down and down and down <br>and down you go. “W-WHAT IS HAPPENING?!” You hear your voice echo over <br>and over. “HELP!!” </html>
+1. option 1
+2. option 2
+
+--- You go up the stairs. Forever.
+###
+<html>You switched on your Wendy mode and spent the entire reading<br> period extensively reviewing everything you’ve learned in CS230 to<br> prep for the interview. At the interview, you blew them away with<br> sophisticated data structures you coded on the spot and landed the<br> offer with ease. It was only on the flight back did you remember that<br> you had missed all of your finals. It turns out that even a Wendy<br> can’t do everything... </html>
+1. option 1
+2. option 2
+
+--- You decided to study for the tech portion of the interview
+###
+<html>You spent two whole days looking through every page of Linkedin <br> vaguely connected to “Google” and “Wellesley”. You scheduled a few <br> dozen upcoming phone calls to learn about different alums’ jobs at 
+<br> Google. When you finally arrived at Google for the interview, everyone had <br> heard of you and wanted to have lunch with you! But when <br> you were asked about data structures, you mixed up stacks and queues  <br> because your brain is filled with alum contact info. Too bad, you’ll <br> have to apply again elsewhere!</html>
+1. option 1
+2. option 2
+
+--- You looked up Wellesley alums at Google to network
+###
+<html>You’re overjoyed about landing an internship for the summer and <br> not having to miss finals for any more interviews. However, you know <br> that you cannot afford to live a summer in San Fran with no <br> internship salary. With mixed feelings, you swear that when you become a <br> successful tech company founder you will start an internship fund for <br> Wellesley CS majors. As of now, you hop on Craigslist to search for <br> basement sofas that you can sleep on for a summer, while you hone <br> your programming skills at the startup. No worries, a Wendy will get <br> there, one way or another!</html>
+1. option 1
+2. option 2
+
+--- You took the HR’s startup internship offer
+###
+<html>You told the HR you’ll think about her internship offer. After a <br> mixture of research and stalking online, you shockingly found out <br> that she was hiding her plan from Google because she plans to <br> illegally steal Google’s top business secrets for her startup and become <br> the next big thing in the tech industry! Reciting Wellesley’s Honor <br> Code in your head, you know that a true Wendy would not let this go. <br> You reveal the secret to a trustworthy Google HR and was commended <br> for your bravery with Google’s summer internship!</html>
+
+
+1. option 1
+2. option 2
+
+--- You felt suspicious about this Google HR
+###

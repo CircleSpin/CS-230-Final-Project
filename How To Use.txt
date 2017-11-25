@@ -1,0 +1,11 @@
+﻿Description of how to run Choose Your Own Adventure Wellesley Edition
+
+
+* Make sure all the files are in one folder; compile and run GameGUI.java.
+* A GUI will pop up, displaying a Choose Your Own Adventure Game.
+* To play the game, read the scenario, question and two options displayed at the center of the GUI, and choose your action by clicking on either the “Choose 1” or “Choose 2” button.
+* Continue until you reach the end of the adventure, at which point you will see an ending scenario with no more options and disabled “Choose 1” and “Choose 2” buttons.
+* To save your game progress, click the “Save” button in the GUI. A message will notify you of successful saving. At this point, you can close the GUI and your game progress will not be lost. You can only save one game process at a time; saving a second time will overwrite previously saved progress.
+* To return to the previously saved game process, click the “Load” button in the GUI. A message will notify you of successful loading. The game will be restored to the stage where you last saved your game progress.
+* At any point of the game, you can read a summary of your adventure so far, by clicking on the “Choices Made” tab. This tab shows a summary of actions you have taken, leading up to the current scenario.
+* Have fun choosing your own adventure with our Wellesley edition!
